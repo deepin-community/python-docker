@@ -4,7 +4,7 @@ Upstream-Contact: Docker, Inc.
 Source: https://github.com/docker/docker-py
 
 Files: *
-Copyright: 2014 Docker, Inc.
+Copyright: 2014-2024 Docker, Inc.
 License: Apache-2.0
 
 Files: debian/*
@@ -12,6 +12,7 @@ Copyright: 2014 Paul R. Tagliamonte <paultag@debian.org>
            2014 Tianon Gravi <tianon@debian.org>
            2016 Ondřej Nový <novy@ondrej.org>
            2017 Jason Pleau <jason@jpleau.ca>
+           2024 Salvo 'LtWorf' Tomaselli <ltworf@debian.org>,
 License: Apache-2.0
 
 License: Apache-2.0
