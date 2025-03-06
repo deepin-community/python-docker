@@ -1,12 +1,12 @@
 # Docker SDK for Python
 
-[![Build Status](https://github.com/docker/docker-py/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/docker/docker-py/actions/workflows/ci.yml/)
+[![Build Status](https://github.com/docker/docker-py/actions/workflows/ci.yml/badge.svg)](https://github.com/docker/docker-py/actions/workflows/ci.yml)
 
 A Python library for the Docker Engine API. It lets you do anything the `docker` command does, but from within Python apps – run containers, manage containers, manage Swarms, etc.
 
 ## Installation
 
-The latest stable version [is available on PyPI](https://pypi.python.org/pypi/docker/). Either add `docker` to your `requirements.txt` file or install with pip:
+The latest stable version [is available on PyPI](https://pypi.python.org/pypi/docker/). Install with pip:
 
     pip install docker
 

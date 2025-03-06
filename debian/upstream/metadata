@@ -1,1 +1,3 @@
 Repository: https://github.com/docker/docker-py
+Bug-Database: https://github.com/docker/docker-py/issues
+Bug-Submit: https://github.com/docker/docker-py/issues/new

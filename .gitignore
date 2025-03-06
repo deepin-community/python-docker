@@ -1,5 +1,3 @@
-.git/
-
 build
 dist
 *.egg-info
@@ -10,7 +8,15 @@ dist
 .tox
 .coverage
 html/*
-__pycache__
 
 # Compiled Documentation
-docs/_build
+_build/
+README.rst
+
+# setuptools_scm
+_version.py
+
+env/
+venv/
+.idea/
+*.iml
